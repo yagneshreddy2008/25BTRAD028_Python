@@ -1,0 +1,5 @@
+VERY VERY IMPORTANT
+
+After downloading all the files in dataset:
+1. extract all and combine raw(!) and raw(2) into one single file raw
+2. create another folder processed and insert all the remaining files
